@@ -1,0 +1,79 @@
+body {
+  padding:30px;
+  font-family:sans-serif;
+}
+
+#top {
+  background-color:#F0F8FF;
+}
+#topbutton1 {
+
+  border: 0 none currentcolor;
+  border-image: none 100% 1 0 stretch;
+  display: block;
+  height: auto;
+  margin: 0;
+  max-width: 100%;
+  padding: 0;
+  vertical-align: baseline;
+  float:right;
+}
+
+
+#firstImage {
+  float:right;
+  display: inline-block;
+  width:400px;
+  height:200px;
+}
+#firstDiv {
+  float:left;
+  width=50%;
+}
+
+h2{
+  padding-top:20px;
+}
+
+.users {
+  float:right;
+  display: inline-block;
+  width:400px;
+  height:200px;
+}
+
+.flowingconverstation {
+  float:left;
+  display: inline-block;
+  width:400px;
+  height:200px;
+  padding:60px 100px 60px 100px;
+}
+
+.yourusers {
+  float:right;
+  display: inline-block;
+  width:400px;
+  height:200px;
+  padding:60px 100px 60px 100px;
+}
+
+
+
+.growtogether {
+  padding:60px 100px 60px 100px;
+}
+
+#pinkbutton1 {
+  background-color:pink;
+  color: white;
+  padding:10px;
+  margin-top:20px;
+  text-align:center;
+  border-radius:8px;
+
+}
+
+.bottom {
+  padding-top:60px;
+}
